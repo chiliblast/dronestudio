@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <Max_Ascent_Speed>5</Max_Ascent_Speed>
+    <Max_Descent_Speed>3</Max_Descent_Speed>
+    <Max_Speed>16</Max_Speed>
+    <Max_Altitude_Above_Sea_Level>6000</Max_Altitude_Above_Sea_Level>
+    <Max_Distance>2000</Max_Distance>
+</root>

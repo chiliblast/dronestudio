@@ -1,0 +1,9 @@
+{
+  "firebase": "vivid-fire-4995",
+  "public": ".",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
